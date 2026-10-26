@@ -1,10 +1,10 @@
 :root {
   color-scheme: light;
-  --background: #F4F6EF;
+  --background: #FFFFFF;
   --text: #08724D;
   --accent: #08724D;
   --contact: #79502C;
-  --divider: #BDCFC1;
+  --divider: #CDDAD4;
   --mono: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
